@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Shining Soulz - Gospel, soulful, Kwaito-infused music collective bringing uplifting vibes.">
+  <meta name="keywords" content="Shining Soulz, gospel, soulful, Kwaito, music, choir, uplifting, creature">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shining Soulz</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f9f9f9; color:#333; }
+    header { background:#222; color:#fff; padding:20px; text-align:center; }
+    nav { background:#444; padding:10px; text-align:center; }
+    nav a { color:#fff; margin:0 15px; text-decoration:none; }
+    section { padding:40px; max-width:900px; margin:auto; }
+    footer { background:#222; color:#fff; text-align:center; padding:20px; margin-top:40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Shining Soulz</h1>
+    <p>Where gospel meets soulful, Kwaito-infused grooves</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#music">Music</a>
+    <a href="#socials">Social Media</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Shining Soulz is a vibrant collective blending gospel harmonies with soulful rhythms and Kwaito energy. Our mission is to uplift, inspire, and connect through music that speaks to the heart and soul.</p>
+  </section>
+
+  <section id="music">
+    <h2>Our Music</h2>
+    <p>From powerful gospel anthems to Kwaito-infused tracks, Shining Soulz creates a sound that is both timeless and fresh. Stay tuned for our latest releases and performances.</p>
+  </section>
+
+  <section id="socials">
+    <h2>Follow Us</h2>
+    <p>Catch our latest updates, videos, and performances on:</p>
+    <ul>
+      <li><a href="https://www.instagram.com/yourhandle" target="_blank">Instagram</a></li>
+      <li><a href="https://www.tiktok.com/@yourhandle" target="_blank">TikTok</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Want to collaborate or book us? Reach out at: <strong>shining.soulz@example.com</strong></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Shining Soulz. All rights reserved.</p>
+  </footer>
+</body>
+</html>
